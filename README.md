@@ -29,5 +29,5 @@ There are one notebooks available here named `Seattle Airbnb.ipynb` that prepare
 ### Results<a name="results"></a>
 You can read in this [Medium](https://lu-cassiano.medium.com/answer-some-questions-with-airbnb-dataset-240e4cbcbc36).
 
-### Acknowledgements, Licensing<a name="licensing"></a>
+### Acknowledgements <a name="licensing"></a>
 I would like to thank Airbnb for making the dataset available, you can find the license and other information about this data at this [link](https://www.kaggle.com/airbnb/seattle).
